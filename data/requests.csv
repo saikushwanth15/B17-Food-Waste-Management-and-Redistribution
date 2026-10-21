@@ -1,0 +1,51 @@
+request_id,donation_id,recipient_id,recipient_name,message,status,requested_at,decided_at
+R0001,D0001,U0007,Annadaan Trust,,Rejected,2026-09-09 13:09,2026-09-10 18:09
+R0002,D0003,U0007,Annadaan Trust,We can collect within 2 hours.,Distributed,2026-10-14 12:09,2026-10-14 12:50
+R0003,D0004,U0008,Seva Care,We can collect within 2 hours.,Distributed,2026-08-08 01:09,2026-08-08 04:42
+R0004,D0005,U0007,Annadaan Trust,We can collect within 2 hours.,Distributed,2026-08-22 02:09,2026-08-22 05:30
+R0005,D0006,U0006,Hope Foundation,We can collect within 2 hours.,Distributed,2026-09-13 23:09,2026-09-14 02:39
+R0006,D0007,U0007,Annadaan Trust,We can collect within 2 hours.,Collected,2026-08-08 11:09,2026-08-08 14:22
+R0007,D0010,U0007,Annadaan Trust,We can collect within 2 hours.,Approved,2026-08-18 18:09,2026-08-18 21:18
+R0008,D0013,U0008,Seva Care,We can collect within 2 hours.,Distributed,2026-08-02 01:09,2026-08-02 01:39
+R0009,D0014,U0006,Hope Foundation,We can collect within 2 hours.,Distributed,2026-10-12 14:09,2026-10-12 17:01
+R0010,D0015,U0007,Annadaan Trust,We can collect within 2 hours.,Distributed,2026-10-11 15:09,2026-10-11 17:26
+R0011,D0016,U0006,Hope Foundation,We can collect within 2 hours.,Approved,2026-09-11 17:09,2026-09-11 19:39
+R0012,D0017,U0006,Hope Foundation,We can collect within 2 hours.,Distributed,2026-09-04 16:09,2026-09-04 19:06
+R0013,D0018,U0006,Hope Foundation,We can collect within 2 hours.,Distributed,2026-08-03 12:09,2026-08-03 15:46
+R0014,D0019,U0006,Hope Foundation,We can collect within 2 hours.,Approved,2026-08-21 11:09,2026-08-21 11:50
+R0015,D0022,U0006,Hope Foundation,We can collect within 2 hours.,Distributed,2026-07-10 09:09,2026-07-10 12:50
+R0016,D0023,U0008,Seva Care,We can collect within 2 hours.,Distributed,2026-10-01 23:09,2026-10-02 01:38
+R0017,D0024,U0006,Hope Foundation,We can collect within 2 hours.,Distributed,2026-06-23 16:09,2026-06-23 17:30
+R0018,D0025,U0006,Hope Foundation,,Rejected,2026-08-28 13:09,2026-08-30 13:09
+R0019,D0026,U0006,Hope Foundation,We can collect within 2 hours.,Distributed,2026-08-14 05:09,2026-08-14 08:02
+R0020,D0028,U0007,Annadaan Trust,We can collect within 2 hours.,Distributed,2026-09-15 20:09,2026-09-15 22:34
+R0021,D0030,U0006,Hope Foundation,We can collect within 2 hours.,Distributed,2026-08-28 17:09,2026-08-28 18:00
+R0022,D0032,U0007,Annadaan Trust,We can collect within 2 hours.,Distributed,2026-09-30 08:09,2026-09-30 10:16
+R0023,D0034,U0006,Hope Foundation,We can collect within 2 hours.,Approved,2026-09-17 13:09,2026-09-17 16:23
+R0024,D0036,U0007,Annadaan Trust,We can collect within 2 hours.,Approved,2026-10-09 13:09,2026-10-09 14:32
+R0025,D0037,U0007,Annadaan Trust,We can collect within 2 hours.,Distributed,2026-08-02 16:09,2026-08-02 18:39
+R0026,D0038,U0008,Seva Care,We can collect within 2 hours.,Distributed,2026-09-13 05:09,2026-09-13 07:35
+R0027,D0039,U0007,Annadaan Trust,We can collect within 2 hours.,Distributed,2026-09-19 05:09,2026-09-19 06:22
+R0028,D0040,U0006,Hope Foundation,We can collect within 2 hours.,Distributed,2026-09-24 22:09,2026-09-24 22:45
+R0029,D0041,U0007,Annadaan Trust,We can collect within 2 hours.,Distributed,2026-07-05 06:09,2026-07-05 07:31
+R0030,D0042,U0007,Annadaan Trust,We can collect within 2 hours.,Distributed,2026-09-08 01:09,2026-09-08 03:25
+R0031,D0043,U0007,Annadaan Trust,We can collect within 2 hours.,Distributed,2026-08-16 22:09,2026-08-17 00:04
+R0032,D0045,U0008,Seva Care,We can collect within 2 hours.,Approved,2026-08-18 15:09,2026-08-18 17:38
+R0033,D0046,U0007,Annadaan Trust,We can collect within 2 hours.,Distributed,2026-07-16 02:09,2026-07-16 04:00
+R0034,D0047,U0008,Seva Care,We can collect within 2 hours.,Distributed,2026-08-10 17:09,2026-08-10 20:12
+R0035,D0049,U0006,Hope Foundation,,Rejected,2026-08-23 02:09,2026-08-23 10:09
+R0036,D0050,U0006,Hope Foundation,We can collect within 2 hours.,Distributed,2026-09-08 11:09,2026-09-08 14:16
+R0037,D0051,U0006,Hope Foundation,We can collect within 2 hours.,Distributed,2026-09-13 04:09,2026-09-13 06:21
+R0038,D0054,U0006,Hope Foundation,We can collect within 2 hours.,Distributed,2026-09-30 20:09,2026-09-30 20:24
+R0039,D0056,U0006,Hope Foundation,We can collect within 2 hours.,Collected,2026-10-12 06:09,2026-10-12 09:57
+R0040,D0057,U0006,Hope Foundation,We can collect within 2 hours.,Distributed,2026-09-14 01:09,2026-09-14 05:08
+R0041,D0059,U0008,Seva Care,We can collect within 2 hours.,Distributed,2026-08-19 19:09,2026-08-19 21:07
+R0042,D0061,U0006,Hope Foundation,We can collect within 2 hours.,Distributed,2026-07-09 04:09,2026-07-09 05:51
+R0043,D0063,U0008,Seva Care,We can collect within 2 hours.,Distributed,2026-08-14 13:09,2026-08-14 13:47
+R0044,D0064,U0006,Hope Foundation,We can collect within 2 hours.,Approved,2026-06-28 14:09,2026-06-28 17:25
+R0045,D0065,U0006,Hope Foundation,We can collect within 2 hours.,Distributed,2026-07-15 04:09,2026-07-15 06:37
+R0046,D0066,U0006,Hope Foundation,We can collect within 2 hours.,Collected,2026-10-07 00:09,2026-10-07 00:56
+R0047,D0067,U0007,Annadaan Trust,We can collect within 2 hours.,Distributed,2026-09-18 03:09,2026-09-18 06:46
+R0048,D0068,U0008,Seva Care,We can collect within 2 hours.,Approved,2026-10-20 19:09,2026-10-20 21:44
+R0049,D0069,U0007,Annadaan Trust,We can collect within 2 hours.,Distributed,2026-09-19 19:09,2026-09-19 22:14
+R0050,D0070,U0006,Hope Foundation,We can collect within 2 hours.,Distributed,2026-06-24 09:09,2026-06-24 12:33

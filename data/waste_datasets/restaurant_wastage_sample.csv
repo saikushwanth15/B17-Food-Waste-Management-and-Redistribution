@@ -1,0 +1,306 @@
+Date,Dish_Category,Quantity_Prepared,Quantity_Sold,Wastage_kg,Wastage_Reason,Unit_Price
+2026-06-19,Dessert,29,24,1.18,Overproduction,150
+2026-04-02,Dessert,30,21,2.74,Spoilage,60
+2026-02-16,Bakery,88,55,11.88,Spoilage,150
+2026-03-04,Dessert,150,97,25.16,Customer leftover,120
+2026-04-04,Dessert,42,37,2.26,Spoilage,150
+2026-03-24,Bakery,113,87,7.57,Preparation error,150
+2026-04-21,Main Course,27,18,2.31,Preparation error,200
+2026-05-13,Main Course,23,21,0.92,Spoilage,120
+2026-06-23,Dessert,103,81,10.2,Spoilage,120
+2026-02-15,Starter,25,16,3.44,Customer leftover,150
+2026-02-16,Dessert,119,109,4.21,Overproduction,200
+2026-03-30,Dessert,59,44,3.63,Spoilage,200
+2026-04-12,Beverage,44,38,1.68,Spoilage,150
+2026-02-27,Bakery,21,15,2.25,Preparation error,150
+2026-06-27,Dessert,58,44,6.47,Overproduction,150
+2026-05-27,Dessert,137,97,11.52,Preparation error,200
+2026-06-23,Starter,118,99,8.29,Preparation error,150
+2026-05-25,Dessert,96,64,14.11,Preparation error,200
+2026-05-08,Dessert,79,50,8.62,Spoilage,120
+2026-03-25,Starter,129,121,1.66,Customer leftover,200
+2026-06-08,Dessert,96,91,1.81,Preparation error,200
+2026-06-13,Dessert,130,97,7.0,Customer leftover,150
+2026-02-03,Starter,37,29,2.58,Preparation error,200
+2026-06-27,Beverage,59,55,1.38,Preparation error,200
+2026-07-01,Starter,107,92,3.77,Customer leftover,120
+2026-02-20,Starter,99,78,8.33,Customer leftover,120
+2026-06-11,Bakery,127,106,6.03,Spoilage,200
+2026-03-21,Bakery,125,83,16.0,Customer leftover,200
+2026-02-11,Starter,125,75,14.6,Overproduction,120
+2026-05-13,Starter,45,37,2.07,Preparation error,200
+2026-06-26,Bakery,88,81,2.48,Spoilage,200
+2026-03-23,Main Course,125,103,5.43,Overproduction,60
+2026-02-26,Bakery,39,25,4.86,Preparation error,200
+2026-05-22,Bakery,35,29,1.78,Spoilage,120
+2026-04-12,Starter,63,38,11.44,Overproduction,120
+2026-03-22,Starter,135,113,4.76,Preparation error,200
+2026-02-12,Main Course,132,81,14.01,Overproduction,90
+2026-07-01,Beverage,64,46,5.24,Customer leftover,150
+2026-02-18,Bakery,82,70,3.2,Customer leftover,150
+2026-06-05,Main Course,25,22,0.68,Spoilage,120
+2026-05-09,Dessert,67,40,8.61,Customer leftover,60
+2026-04-27,Starter,118,85,16.12,Preparation error,120
+2026-06-22,Beverage,82,61,5.99,Spoilage,150
+2026-02-09,Dessert,91,77,6.18,Spoilage,90
+2026-02-24,Main Course,70,49,7.7,Preparation error,90
+2026-03-13,Beverage,114,83,9.71,Spoilage,120
+2026-06-02,Beverage,149,100,19.73,Customer leftover,200
+2026-05-24,Beverage,114,91,8.8,Spoilage,90
+2026-03-04,Dessert,43,34,3.79,Preparation error,60
+2026-06-26,Beverage,57,40,7.02,Spoilage,90
+2026-04-24,Starter,68,57,2.42,Customer leftover,200
+2026-04-18,Dessert,69,43,5.89,Customer leftover,90
+2026-05-14,Beverage,92,67,10.81,Spoilage,120
+2026-03-18,Dessert,27,19,3.75,Overproduction,150
+2026-04-05,Starter,122,89,8.4,Overproduction,120
+2026-03-29,Bakery,30,22,1.99,Spoilage,120
+2026-03-12,Bakery,117,103,4.11,Spoilage,200
+2026-03-31,Dessert,147,128,9.08,Customer leftover,60
+2026-03-01,Bakery,93,87,2.29,Overproduction,90
+2026-03-01,Main Course,29,26,1.3,Customer leftover,60
+2026-05-18,Bakery,120,117,1.35,Customer leftover,200
+2026-02-24,Beverage,109,104,1.66,Customer leftover,200
+2026-05-27,Main Course,150,93,18.72,Spoilage,150
+2026-03-21,Bakery,31,29,0.56,Spoilage,90
+2026-06-20,Starter,86,59,6.76,Customer leftover,150
+2026-02-24,Main Course,71,59,2.89,Preparation error,150
+2026-04-02,Beverage,81,48,7.92,Customer leftover,120
+2026-03-07,Main Course,56,46,3.0,Overproduction,200
+2026-05-20,Main Course,63,54,3.42,Preparation error,150
+2026-03-25,Starter,49,42,2.16,Spoilage,60
+2026-02-16,Starter,91,65,10.67,Preparation error,60
+2026-03-14,Bakery,103,79,7.41,Spoilage,200
+2026-02-19,Beverage,31,18,2.93,Customer leftover,200
+2026-04-09,Beverage,47,39,2.77,,60
+2026-05-03,Bakery,43,36,3.36,Customer leftover,90
+2026-02-21,Starter,55,48,3.03,Spoilage,120
+2026-05-06,Bakery,67,64,1.36,Spoilage,60
+2026-04-21,Dessert,103,76,7.99,Customer leftover,90
+2026-06-22,Dessert,114,104,2.72,Overproduction,60
+2026-06-26,Main Course,123,116,2.44,Preparation error,90
+2026-04-18,Main Course,40,26,3.49,Preparation error,150
+2026-02-23,Beverage,30,27,0.77,Customer leftover,60
+2026-02-09,Dessert,150,114,7.98,Overproduction,200
+2026-05-19,Starter,106,66,15.99,Spoilage,90
+2026-05-08,Bakery,95,57,15.3,Spoilage,150
+2026-02-22,Beverage,102,81,10.32,Spoilage,150
+2026-02-21,Dessert,35,30,1.91,Customer leftover,200
+2026-06-27,Beverage,127,122,1.98,Spoilage,120
+2026-04-29,Main Course,27,24,1.21,Preparation error,60
+2026-03-10,Beverage,115,93,6.78,Spoilage,200
+2026-05-24,Main Course,121,84,9.4,Spoilage,200
+2026-03-01,Dessert,76,70,2.37,Spoilage,200
+2026-04-06,Beverage,145,99,12.33,Overproduction,200
+2026-07-01,Starter,40,36,1.76,Spoilage,200
+2026-06-21,Starter,149,129,7.76,Overproduction,150
+2026-05-12,Main Course,63,60,1.11,Overproduction,90
+2026-05-07,Starter,34,25,2.81,Overproduction,200
+2026-03-27,Main Course,137,97,13.11,Overproduction,200
+2026-03-24,Dessert,49,46,0.75,Customer leftover,60
+2026-04-07,Bakery,51,35,6.74,Customer leftover,150
+2026-02-12,Bakery,110,70,11.93,Overproduction,60
+2026-04-04,Beverage,85,62,4.75,Preparation error,60
+2026-02-06,Dessert,144,92,13.29,Customer leftover,150
+2026-03-09,Dessert,84,67,8.24,Overproduction,60
+2026-04-29,Beverage,58,45,6.0,Overproduction,60
+2026-03-19,Main Course,120,110,4.08,Preparation error,150
+2026-03-31,Bakery,39,28,2.91,,200
+2026-02-12,Dessert,74,49,10.45,Customer leftover,200
+2026-05-31,Dessert,119,113,1.21,Preparation error,120
+2026-03-31,Bakery,25,17,1.71,Spoilage,90
+2026-04-11,Bakery,118,83,17.41,Customer leftover,200
+2026-06-27,Starter,55,53,0.95,Overproduction,90
+2026-05-21,Dessert,45,33,5.25,Spoilage,90
+2026-02-19,Dessert,97,93,1.69,Spoilage,120
+2026-06-21,Dessert,123,89,13.65,Preparation error,200
+2026-05-06,Dessert,82,74,1.96,Spoilage,60
+2026-05-28,Bakery,123,94,12.52,Spoilage,200
+2026-02-17,Dessert,56,40,4.41,Customer leftover,60
+2026-03-21,Dessert,40,32,2.99,Preparation error,120
+2026-05-21,Dessert,37,33,1.88,Customer leftover,120
+2026-06-20,Dessert,25,22,0.81,Overproduction,90
+2026-02-13,Bakery,122,93,8.26,Overproduction,90
+2026-04-03,Bakery,34,32,0.43,Overproduction,200
+2026-04-29,Dessert,54,32,7.94,,120
+2026-02-08,Starter,74,53,8.29,Preparation error,200
+2026-04-28,Beverage,64,39,10.97,Overproduction,200
+2026-04-27,Beverage,146,142,1.11,Preparation error,60
+2026-02-07,Dessert,101,82,4.12,,90
+2026-02-24,Main Course,24,15,3.23,Overproduction,120
+2026-05-04,Bakery,128,93,16.09,Spoilage,200
+2026-06-28,Bakery,104,71,9.15,Preparation error,60
+2026-04-21,Dessert,136,110,9.28,Customer leftover,90
+2026-04-06,Starter,22,17,1.98,Customer leftover,90
+2026-03-31,Starter,122,108,6.74,Spoilage,60
+2026-02-16,Main Course,148,100,13.33,Customer leftover,90
+2026-03-18,Dessert,61,48,5.63,Spoilage,150
+2026-06-08,Dessert,74,62,5.64,Preparation error,150
+2026-03-27,Starter,102,91,2.56,Overproduction,60
+2026-05-14,Bakery,109,67,13.14,Preparation error,90
+2026-02-08,Beverage,84,51,8.99,Customer leftover,90
+2026-04-25,Dessert,128,108,9.28,Preparation error,90
+2026-06-26,Dessert,60,46,6.81,Spoilage,120
+2026-04-14,Beverage,42,30,5.54,Spoilage,90
+2026-04-23,Starter,135,91,20.45,Spoilage,120
+2026-02-12,Main Course,132,88,21.93,Customer leftover,60
+2026-03-01,Starter,58,56,0.48,Customer leftover,90
+2026-06-09,Main Course,110,70,13.57,Preparation error,60
+2026-05-18,Beverage,106,89,7.9,Overproduction,200
+2026-04-02,Starter,71,63,1.69,Spoilage,200
+2026-05-22,Starter,46,40,2.98,Customer leftover,60
+2026-03-01,Main Course,50,48,0.72,Overproduction,90
+2026-03-30,Bakery,57,47,3.5,Overproduction,200
+2026-05-02,Starter,147,141,1.83,Spoilage,90
+2026-02-19,Starter,89,77,3.35,Overproduction,60
+2026-03-23,Bakery,150,92,28.16,Customer leftover,60
+2026-04-25,Bakery,30,25,1.42,Customer leftover,150
+2026-04-10,Bakery,122,92,9.77,Spoilage,150
+2026-05-10,Starter,124,112,3.26,Customer leftover,200
+2026-05-08,Starter,81,74,1.58,Overproduction,60
+2026-05-15,Beverage,103,88,5.47,Customer leftover,150
+2026-06-28,Beverage,20,15,1.77,Preparation error,90
+2026-05-08,Beverage,110,95,7.39,Customer leftover,200
+2026-04-24,Bakery,38,31,2.79,Customer leftover,120
+2026-06-02,Beverage,109,87,8.17,Spoilage,60
+2026-06-16,Bakery,113,90,5.77,Customer leftover,90
+2026-03-17,Beverage,59,53,1.52,Overproduction,120
+2026-05-09,Beverage,112,102,2.37,Spoilage,120
+2026-05-08,Bakery,46,33,4.63,Preparation error,60
+2026-04-12,Beverage,121,85,14.71,Preparation error,150
+2026-03-17,Main Course,58,34,7.44,Spoilage,200
+2026-05-06,Dessert,107,96,2.26,Spoilage,60
+2026-06-27,Main Course,86,53,9.63,Customer leftover,120
+2026-04-07,Beverage,81,56,5.68,Preparation error,60
+2026-03-24,Dessert,52,39,5.01,Customer leftover,60
+2026-05-25,Dessert,116,85,15.22,Preparation error,200
+2026-04-07,Bakery,110,75,8.36,Spoilage,200
+2026-05-07,Dessert,36,30,2.75,,150
+2026-05-09,Beverage,120,95,12.02,Overproduction,60
+2026-06-25,Beverage,138,131,2.27,Preparation error,90
+2026-02-17,Main Course,132,99,11.67,Overproduction,90
+2026-03-24,Dessert,122,98,8.79,Preparation error,150
+2026-03-03,Starter,43,29,5.2,Overproduction,60
+2026-06-08,Main Course,42,38,1.48,Overproduction,90
+2026-04-27,Bakery,143,132,4.48,Preparation error,200
+2026-03-08,Main Course,124,112,3.55,Spoilage,200
+2026-02-02,Dessert,67,65,0.71,,120
+2026-05-10,Dessert,85,72,4.77,Preparation error,60
+2026-04-20,Beverage,97,67,13.22,Customer leftover,120
+2026-03-24,Bakery,53,32,8.31,Preparation error,150
+2026-06-30,Dessert,56,41,3.9,,120
+2026-02-03,Bakery,37,27,4.47,Overproduction,120
+2026-03-29,Main Course,132,93,17.19,Preparation error,150
+2026-05-25,Starter,72,67,1.27,Overproduction,60
+2026-03-08,Beverage,38,34,1.02,Spoilage,150
+2026-03-29,Bakery,95,85,4.51,Spoilage,90
+2026-06-13,Main Course,45,34,4.79,Overproduction,150
+2026-03-30,Beverage,85,73,4.87,Spoilage,60
+2026-03-07,Beverage,30,19,3.17,Spoilage,200
+2026-04-23,Dessert,59,42,5.05,Spoilage,90
+2026-04-01,Dessert,120,116,1.26,Customer leftover,90
+2026-06-20,Main Course,43,29,5.86,Preparation error,120
+2026-05-14,Dessert,49,30,4.5,Spoilage,200
+2026-06-15,Dessert,38,26,2.46,Preparation error,60
+2026-03-24,Dessert,144,101,16.31,Overproduction,90
+2026-03-08,Main Course,140,98,15.69,Customer leftover,60
+2026-06-29,Dessert,45,43,0.52,Spoilage,120
+2026-02-13,Beverage,64,46,6.2,Customer leftover,120
+2026-03-18,Dessert,48,43,2.21,Preparation error,60
+2026-06-22,Bakery,48,43,1.59,Overproduction,60
+2026-02-11,Main Course,44,33,3.57,Customer leftover,60
+2026-05-07,Starter,61,44,5.09,Preparation error,120
+2026-03-11,Main Course,86,54,7.52,Preparation error,120
+2026-06-18,Main Course,50,36,3.49,Overproduction,200
+2026-04-07,Dessert,113,108,1.61,,90
+2026-04-03,Starter,148,102,9.41,Overproduction,150
+2026-06-27,Main Course,73,62,2.49,Spoilage,90
+2026-04-09,Bakery,27,20,2.49,Customer leftover,200
+2026-03-03,Main Course,41,34,1.89,Overproduction,90
+2026-02-19,Starter,106,103,0.79,Spoilage,120
+2026-04-29,Beverage,41,37,1.51,Spoilage,60
+2026-04-23,Starter,125,112,2.94,Spoilage,90
+2026-06-11,Dessert,62,40,9.48,Spoilage,90
+2026-03-29,Starter,104,90,6.99,Preparation error,60
+2026-06-08,Bakery,104,98,2.35,Spoilage,60
+2026-05-05,Dessert,125,79,17.24,Preparation error,150
+2026-03-07,Dessert,86,78,3.77,Preparation error,200
+2026-03-15,Bakery,131,97,9.85,Overproduction,60
+2026-04-06,Bakery,79,54,8.43,Spoilage,150
+2026-06-28,Beverage,32,23,3.94,Customer leftover,150
+2026-05-15,Dessert,42,28,5.59,Preparation error,120
+2026-02-02,Starter,96,75,10.19,Preparation error,150
+2026-05-17,Dessert,96,74,8.0,Overproduction,120
+2026-05-12,Dessert,139,116,6.92,Customer leftover,90
+2026-05-25,Main Course,124,105,4.49,Overproduction,150
+2026-03-20,Main Course,119,83,11.11,Spoilage,120
+2026-05-12,Bakery,98,77,9.18,Spoilage,90
+2026-05-12,Main Course,22,13,2.08,Spoilage,150
+2026-06-25,Starter,84,73,5.45,Preparation error,90
+2026-04-06,Bakery,126,79,14.07,Customer leftover,120
+2026-05-04,Beverage,98,83,7.22,Overproduction,150
+2026-06-07,Starter,113,97,3.47,Overproduction,200
+2026-05-08,Bakery,134,96,17.76,Preparation error,60
+2026-04-25,Dessert,143,93,12.17,Overproduction,150
+2026-03-17,Main Course,91,76,4.31,Overproduction,150
+2026-06-21,Beverage,124,104,6.96,Customer leftover,120
+2026-04-24,Beverage,61,55,2.69,Customer leftover,90
+2026-03-24,Bakery,35,23,3.01,Customer leftover,60
+2026-07-01,Dessert,96,93,1.47,Spoilage,120
+2026-04-21,Dessert,141,95,22.01,Preparation error,60
+2026-04-08,Beverage,112,83,12.7,Preparation error,120
+2026-03-01,Bakery,72,68,1.34,Preparation error,90
+2026-04-22,Bakery,31,20,3.75,Preparation error,60
+2026-04-12,Beverage,120,88,11.48,Customer leftover,60
+2026-04-08,Starter,135,120,5.39,Customer leftover,120
+2026-05-04,Starter,87,84,1.39,Overproduction,200
+2026-05-17,Main Course,48,45,1.18,Overproduction,150
+2026-05-12,Beverage,107,80,11.93,Customer leftover,90
+2026-03-09,Dessert,125,106,4.56,Customer leftover,60
+2026-05-17,Bakery,37,29,3.2,Preparation error,150
+2026-03-27,Main Course,90,80,2.45,Spoilage,200
+2026-03-04,Beverage,92,86,2.78,Spoilage,150
+2026-04-12,Bakery,37,33,1.79,Customer leftover,200
+2026-03-27,Dessert,77,55,8.86,Overproduction,120
+2026-02-06,Dessert,38,24,3.72,Preparation error,90
+2026-05-26,Beverage,90,71,7.16,Overproduction,60
+2026-06-18,Main Course,139,89,14.41,Customer leftover,120
+2026-06-16,Main Course,78,53,7.11,Overproduction,90
+2026-03-17,Dessert,27,24,0.98,Overproduction,120
+2026-02-23,Bakery,48,36,5.84,Preparation error,90
+2026-02-15,Dessert,115,111,1.59,Customer leftover,60
+2026-06-03,Bakery,54,41,4.37,Customer leftover,200
+2026-03-21,Dessert,48,36,5.13,Overproduction,200
+2026-02-05,Main Course,132,118,6.05,Spoilage,200
+2026-04-17,Bakery,25,23,0.83,Overproduction,120
+2026-03-25,Bakery,126,76,13.96,Customer leftover,90
+2026-06-25,Dessert,100,97,0.69,Spoilage,120
+2026-05-19,Beverage,27,24,1.3,Customer leftover,60
+2026-03-12,Beverage,113,101,4.15,Overproduction,120
+2026-04-23,Main Course,141,132,4.09,Customer leftover,200
+2026-05-11,Starter,73,53,9.63,Spoilage,120
+2026-06-13,Beverage,131,117,3.48,Preparation error,90
+2026-03-08,Bakery,23,14,3.23,Overproduction,60
+2026-02-23,Main Course,138,123,7.0,Overproduction,120
+2026-04-28,Main Course,138,108,6.07,Spoilage,120
+2026-05-09,Main Course,46,29,8.22,Preparation error,150
+2026-06-27,Bakery,132,117,6.26,Overproduction,150
+2026-03-16,Main Course,122,103,7.89,Preparation error,150
+2026-03-09,Bakery,50,47,0.94,Spoilage,90
+2026-02-02,Main Course,120,97,8.97,Overproduction,90
+2026-02-25,Starter,71,64,2.38,Preparation error,90
+2026-03-29,Bakery,31,29,0.95,Customer leftover,60
+2026-03-12,Starter,139,84,23.53,Overproduction,90
+2026-03-09,Dessert,61,50,2.55,Preparation error,60
+2026-02-19,Starter,27,21,2.1,Overproduction,60
+2026-06-20,Starter,94,72,8.1,Spoilage,60
+2026-03-20,Beverage,149,135,3.68,Spoilage,150
+2026-03-01,Dessert,42,33,3.63,Overproduction,90
+2026-02-26,Dessert,42,31,3.22,Customer leftover,90
+2026-06-07,Starter,105,93,2.68,Overproduction,60
+2026-03-27,Beverage,118,91,12.88,Spoilage,60
+2026-06-19,Dessert,29,24,1.18,Overproduction,150
+2026-04-02,Dessert,30,21,2.74,Spoilage,60
+2026-02-16,Bakery,88,55,11.88,Spoilage,150
+2026-03-04,Dessert,150,97,25.16,Customer leftover,120
+2026-04-04,Dessert,42,37,2.26,Spoilage,150

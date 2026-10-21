@@ -1,0 +1,9 @@
+user_id,name,email,password,role,phone,organization,city,created_at
+U0001,System Admin,admin@foodrescue.com,b700bf7924bd8723$ef49136422f415be8823712602c0bf34b776ab56cd49fd6efbf7372cf3285b9e,Admin,9000000000,Smart Food Rescue,Hyderabad,2026-10-21 17:09
+U0002,Spice Garden Restaurant,spice@demo.com,dbd85706a8eb7d87$279a8efff5cd394a8e750acf1ea762d796dbf14e458f1a4b73f68fc8822c8994,Donor,9800000011,Spice Garden,Hyderabad,2026-10-21 17:09
+U0003,Green Leaf Hostel,hostel@demo.com,02e0fcc0b1cc5156$fadd8143807f57945a1fe675ec5b7d1550406d3bc6fa8cb7d061c015e51cd648,Donor,9810000111,Green Leaf Hostel,Hyderabad,2026-10-21 17:09
+U0004,FreshMart Supermarket,freshmart@demo.com,8f7876bc5b378122$4ccc3f43e014d5ffc6042b7bf847726e16c62bc11fd5d427e1d1dea32105610c,Donor,9820000211,FreshMart,Bengaluru,2026-10-21 17:09
+U0005,Grand Hotel Kitchen,grand@demo.com,89ed60624f4becbf$58cedb59056771e12676337054357a5b83781ea0ffdb5c7d5bcbc46917ff9e6a,Donor,9830000311,Grand Hotel,Chennai,2026-10-21 17:09
+U0006,Hope Foundation,hope@demo.com,15e60f17e54b1710$679278a2c6088d8dc10d23d7a8694038df577b887ae19f4b841cd3fd5c02c2cf,Recipient/NGO,9840000411,Hope Foundation,Hyderabad,2026-10-21 17:09
+U0007,Annadaan Trust,annadaan@demo.com,c9babc7321c2457b$6a1f9f62799392b71b8cadda7534e3a5e324023a702e77878ffa470886708ed0,Recipient/NGO,9850000511,Annadaan Trust,Bengaluru,2026-10-21 17:09
+U0008,Seva Care,seva@demo.com,5f472cda634fff4a$783a2e44f50d541b16888cfe4773c3995924fdf170d7ff94f4cd2d36d0860b45,Recipient/NGO,9860000611,Seva Care,Chennai,2026-10-21 17:09

@@ -1,0 +1,40 @@
+distribution_id,request_id,donation_id,recipient_id,recipient_name,collected_at,distributed_at,people_served,distribution_location,notes,status
+T0001,R0002,D0003,U0007,Annadaan Trust,2026-10-14 15:50,2026-10-14 16:50,173,"Shelter home, Hyderabad",,Distributed
+T0002,R0003,D0004,U0008,Seva Care,2026-08-08 06:42,2026-08-08 07:42,17,"Shelter home, Hyderabad",,Distributed
+T0003,R0004,D0005,U0007,Annadaan Trust,2026-08-22 07:30,2026-08-22 08:30,53,"Shelter home, Chennai",,Distributed
+T0004,R0005,D0006,U0006,Hope Foundation,2026-09-14 05:39,2026-09-14 06:39,86,"Shelter home, Hyderabad",,Distributed
+T0005,R0006,D0007,U0007,Annadaan Trust,2026-08-08 17:22,,0,,,Collected
+T0006,R0008,D0013,U0008,Seva Care,2026-08-02 02:39,2026-08-02 03:39,217,"Shelter home, Hyderabad",,Distributed
+T0007,R0009,D0014,U0006,Hope Foundation,2026-10-12 18:01,2026-10-12 19:01,18,"Shelter home, Chennai",,Distributed
+T0008,R0010,D0015,U0007,Annadaan Trust,2026-10-11 19:26,2026-10-11 20:26,130,"Shelter home, Chennai",,Distributed
+T0009,R0012,D0017,U0006,Hope Foundation,2026-09-04 20:06,2026-09-04 21:06,66,"Shelter home, Hyderabad",,Distributed
+T0010,R0013,D0018,U0006,Hope Foundation,2026-08-03 17:46,2026-08-03 18:46,68,"Shelter home, Hyderabad",,Distributed
+T0011,R0015,D0022,U0006,Hope Foundation,2026-07-10 15:50,2026-07-10 16:50,90,"Shelter home, Chennai",,Distributed
+T0012,R0016,D0023,U0008,Seva Care,2026-10-02 04:38,2026-10-02 05:38,150,"Shelter home, Chennai",,Distributed
+T0013,R0017,D0024,U0006,Hope Foundation,2026-06-23 20:30,2026-06-23 21:30,37,"Shelter home, Chennai",,Distributed
+T0014,R0019,D0026,U0006,Hope Foundation,2026-08-14 11:02,2026-08-14 12:02,74,"Shelter home, Hyderabad",,Distributed
+T0015,R0020,D0028,U0007,Annadaan Trust,2026-09-16 01:34,2026-09-16 02:34,57,"Shelter home, Hyderabad",,Distributed
+T0016,R0021,D0030,U0006,Hope Foundation,2026-08-28 20:00,2026-08-28 21:00,56,"Shelter home, Chennai",,Distributed
+T0017,R0022,D0032,U0007,Annadaan Trust,2026-09-30 13:16,2026-09-30 14:16,90,"Shelter home, Chennai",,Distributed
+T0018,R0025,D0037,U0007,Annadaan Trust,2026-08-02 19:39,2026-08-02 20:39,87,"Shelter home, Hyderabad",,Distributed
+T0019,R0026,D0038,U0008,Seva Care,2026-09-13 09:35,2026-09-13 10:35,45,"Shelter home, Hyderabad",,Distributed
+T0020,R0027,D0039,U0007,Annadaan Trust,2026-09-19 08:22,2026-09-19 09:22,198,"Shelter home, Hyderabad",,Distributed
+T0021,R0028,D0040,U0006,Hope Foundation,2026-09-25 01:45,2026-09-25 02:45,118,"Shelter home, Hyderabad",,Distributed
+T0022,R0029,D0041,U0007,Annadaan Trust,2026-07-05 09:31,2026-07-05 10:31,56,"Shelter home, Bengaluru",,Distributed
+T0023,R0030,D0042,U0007,Annadaan Trust,2026-09-08 05:25,2026-09-08 06:25,16,"Shelter home, Bengaluru",,Distributed
+T0024,R0031,D0043,U0007,Annadaan Trust,2026-08-17 01:04,2026-08-17 02:04,63,"Shelter home, Hyderabad",,Distributed
+T0025,R0033,D0046,U0007,Annadaan Trust,2026-07-16 06:00,2026-07-16 07:00,112,"Shelter home, Hyderabad",,Distributed
+T0026,R0034,D0047,U0008,Seva Care,2026-08-10 23:12,2026-08-11 00:12,88,"Shelter home, Hyderabad",,Distributed
+T0027,R0036,D0050,U0006,Hope Foundation,2026-09-08 16:16,2026-09-08 17:16,70,"Shelter home, Bengaluru",,Distributed
+T0028,R0037,D0051,U0006,Hope Foundation,2026-09-13 07:21,2026-09-13 08:21,59,"Shelter home, Bengaluru",,Distributed
+T0029,R0038,D0054,U0006,Hope Foundation,2026-09-30 22:24,2026-09-30 23:24,95,"Shelter home, Chennai",,Distributed
+T0030,R0039,D0056,U0006,Hope Foundation,2026-10-12 12:57,,0,,,Collected
+T0031,R0040,D0057,U0006,Hope Foundation,2026-09-14 08:08,2026-09-14 09:08,233,"Shelter home, Hyderabad",,Distributed
+T0032,R0041,D0059,U0008,Seva Care,2026-08-20 00:07,2026-08-20 01:07,99,"Shelter home, Hyderabad",,Distributed
+T0033,R0042,D0061,U0006,Hope Foundation,2026-07-09 08:51,2026-07-09 09:51,218,"Shelter home, Hyderabad",,Distributed
+T0034,R0043,D0063,U0008,Seva Care,2026-08-14 15:47,2026-08-14 16:47,44,"Shelter home, Chennai",,Distributed
+T0035,R0045,D0065,U0006,Hope Foundation,2026-07-15 09:37,2026-07-15 10:37,28,"Shelter home, Chennai",,Distributed
+T0036,R0046,D0066,U0006,Hope Foundation,2026-10-07 03:56,,0,,,Collected
+T0037,R0047,D0067,U0007,Annadaan Trust,2026-09-18 09:46,2026-09-18 10:46,93,"Shelter home, Chennai",,Distributed
+T0038,R0049,D0069,U0007,Annadaan Trust,2026-09-20 00:14,2026-09-20 01:14,80,"Shelter home, Chennai",,Distributed
+T0039,R0050,D0070,U0006,Hope Foundation,2026-06-24 15:33,2026-06-24 16:33,16,"Shelter home, Hyderabad",,Distributed
