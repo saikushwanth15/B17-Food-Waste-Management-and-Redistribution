@@ -10,7 +10,7 @@
 [![Plotly](https://img.shields.io/badge/Plotly-5.18%2B-3F4F75.svg?logo=plotly&logoColor=white)](https://plotly.com/)
 [![ReportLab](https://img.shields.io/badge/ReportLab-4.0%2B-2C5E3B.svg)](https://www.reportlab.com/)
 [![UN SDG 2](https://img.shields.io/badge/SDG%202-Zero%20Hunger-DDA63A.svg)](https://sdgs.un.org/goals/goal2)
-[![Tests Passing](https://img.shields.io/badge/Unit%20Tests-23%20Passed-brightgreen.svg)](https://github.com/saikushwanth15/B17-Food-Waste-Management-and-Redistribution)
+[![Tests Passing](https://img.shields.io/badge/Unit%20Tests-32%20Passed-brightgreen.svg)](https://github.com/saikushwanth15/B17-Food-Waste-Management-and-Redistribution)
 
 <p align="center">
   <b>Bridging institutional food surplus with local community hunger relief through real-time coordination, verifiable distributions, and data-driven waste intelligence.</b>
@@ -222,7 +222,7 @@ The web application will open automatically in your browser at `http://localhost
 
 ---
 
-## 🧪 Automated Testing Suite (23 Tests)
+## 🧪 Automated Testing Suite (32 Tests)
 
 Our platform includes a comprehensive unit test suite covering input validation, mathematical KPI safety, Kaggle schema detection, and PDF generation.
 
@@ -242,9 +242,14 @@ python -m unittest discover -s tests -v
   - Form validation: rejection of short food names, negative quantities, zero servings, and past expiration times.
   - Search and filter logic: multi-attribute filtering, keyword search, and quantity sorting.
   - Authentication security: salted SHA-256 password hashing, regex email, and 10-digit Indian mobile validation.
+- **Member 2 Recipient Suite (`tests/test_recipient.py` - 9 Tests):**
+  - Distribution validation: headcount $\ge 1$ and location verification.
+  - Surplus food catalog: only available items shown, search and sorting by urgency and quantity.
+  - Request approval logic: automatic status update to `Reserved` and conflict auto-rejection of competing requests.
+  - Automated donation expiration handling.
 
 ```text
-Ran 23 tests in 0.120s
+Ran 32 tests in 0.339s
 OK
 ```
 
