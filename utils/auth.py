@@ -84,3 +84,24 @@ def ensure_admin():
         "phone": "9000000000", "organization": "Smart Food Rescue",
         "city": "Hyderabad", "created_at": storage.now_str(),
     })
+
+
+def update_user_profile(user_id, name, phone, organization, city):
+    """Update profile details for an existing user."""
+    errors = []
+    if len(name.strip()) < 3:
+        errors.append("Name must have at least 3 characters.")
+    if not is_valid_phone(phone):
+        errors.append("Phone must be a valid 10-digit mobile number.")
+    if not city.strip():
+        errors.append("City is required.")
+    if errors:
+        return False, " ".join(errors)
+
+    storage.update_record("users", user_id, {
+        "name": name.strip(),
+        "phone": phone.strip(),
+        "organization": organization.strip(),
+        "city": city.strip().title(),
+    })
+    return True, "Profile updated successfully."
